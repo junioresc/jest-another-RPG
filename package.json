@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-RPG",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junioresc/jest-another-RPG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junioresc/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/junioresc/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
